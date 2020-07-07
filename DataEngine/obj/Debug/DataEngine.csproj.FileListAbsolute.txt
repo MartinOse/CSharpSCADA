@@ -1,0 +1,14 @@
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\bin\Debug\DataEngine.exe.config
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\bin\Debug\DataEngine.exe
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\bin\Debug\DataEngine.pdb
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.Form1.resources
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.Properties.Resources.resources
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.exe.licenses
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.exe
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.pdb
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\bin\Debug\NationalInstruments.NetworkVariable.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\bin\Debug\NationalInstruments.NetworkVariable.xml
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.csproj.CopyComplete
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\DataEngine\obj\Debug\DataEngine.csprojAssemblyReference.cache

@@ -1,0 +1,28 @@
+<!DOCTYPE System-Monitor-Workspace>
+<System-Monitor-Workspace path="C:/Users/Martin/Desktop/USN-courses/Industrial IT/SCADA Lab/SCADA-DSM.smw" >
+ <state w="1213" x="1947" y="93" h="740" max="false" >AAAA/wAAAAD9AAAAAgAAAAEAAAHVAAACl/wCAAAABPsAAAAcAEEAdQB0AG8AIABWAGkAZQB3AF8ARABvAGMAawEAAAA4AAAClwAAAYsA////+wAAAGIAUwBDAEEARABBAF8ARABvAGMAawBfAHsAZQAzADMAZgBlAGIAOQA2AC0ANQA4ADAAYwAtADQAYgA2ADIALQBhADUAMQA3AC0AYgA4ADgAZgAxADAAZAA0AGMANgA1AGIAfQMAAAG6AAABNAAAAvgAAAH0+wAAAHAAVwBhAHQAYwBoACAATABpAHMAdAAgADEAXwBEAG8AYwBrAF8AewA4ADUAMQA3AGEANQAyADUALQAyAGYAZABiAC0ANAAzAGMAMgAtAGEANAAzADIALQBlADIAMAA2AGMAMQBlAGUAMgA1ADIAYQB9AwAAB6QAAACaAAABkAAAAMj7AAAAcABXAGEAdABjAGgAIABMAGkAcwB0ACAAMQBfAEQAbwBjAGsAXwB7AGIAOQA1ADUANwAyAGIAZAAtAGEAMwA1ADkALQA0ADYAMwAyAC0AYQAxADYANwAtAGYAYgBkADYAMwAxADAAOQA0ADYAZABjAH0DAAAH/wAAAMEAAAKGAAAAyAAAAAP///////////wBAAAAAfsAAAAsAEEAbABhAHIAbQBzACAAYQBuAGQAIABFAHYAZQBuAHQAcwBfAEQAbwBjAGsAAAAAAP////8AAALFAP///wAAAuQAAAKXAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAH/////AQAAAAD/////AAAAAAAAAAA=</state>
+ <Tree>
+  <system>localhost</system>
+  <selection>\\localhost\SCADA\Setpoint</selection>
+ </Tree>
+ <System-Event-Window>
+  <Alarms-Window>
+   <column width="196" shown="1" index="0" />
+   <column width="0" shown="0" index="1" />
+   <column width="0" shown="0" index="2" />
+   <column width="126" shown="1" index="3" />
+   <column width="0" shown="0" index="4" />
+   <column width="0" shown="0" index="5" />
+   <column width="0" shown="0" index="6" />
+   <column width="0" shown="0" index="7" />
+   <column width="0" shown="0" index="8" />
+   <column width="0" shown="0" index="9" />
+   <column width="0" shown="0" index="10" />
+   <column width="0" shown="0" index="11" />
+   <column width="153" shown="1" index="12" />
+   <column width="0" shown="0" index="13" />
+   <column width="0" shown="0" index="14" />
+   <filter flags="0" desc="" setuser="" showalarm="0" showevent="1" url="" min="0" comment="" max="0" area="" ackuser="" />
+  </Alarms-Window>
+ </System-Event-Window>
+</System-Monitor-Workspace>

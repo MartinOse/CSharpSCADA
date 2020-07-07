@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\bin\Debug\Process.exe.config
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\bin\Debug\Process.exe
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\bin\Debug\Process.pdb
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\obj\Debug\Process.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\obj\Debug\Process.Form1.resources
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\obj\Debug\Process.Properties.Resources.resources
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\obj\Debug\Process.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\obj\Debug\Process.exe.licenses
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\obj\Debug\Process.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\obj\Debug\Process.exe
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\Process\obj\Debug\Process.pdb

@@ -1,0 +1,46 @@
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\csc.exe
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\System.Collections.Immutable.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\System.Reflection.Metadata.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\vbc.exe
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\VBCSCompiler.exe
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\roslyn\VBCSCompiler.exe.config
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\AlarmSystem.dll.config
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\AlarmSystem.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\AlarmSystem.pdb
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\VS Projects\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csprojResolveAssemblyReference.cache
+d:\VS Projects\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\Newtonsoft.Json.dll
+d:\VS Projects\AlarmSystem\AlarmSystem\bin\Newtonsoft.Json.xml
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\csc.exe
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\vbc.exe
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\AlarmSystem.dll.config
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\AlarmSystem.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\AlarmSystem.pdb
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\bin\Newtonsoft.Json.xml
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.CopyComplete
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.dll
+C:\Users\Martin\Desktop\USN-courses\Industrial IT\SCADA Lab\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
